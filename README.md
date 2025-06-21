@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**LawranceTala/LawranceTala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Lawrance Tala**, a dedicated Computer Science student and a passionate full-stack developer with a strong background in both web development and machine learning.
 
-Here are some ideas to get you started:
+💻 **Tech Stack & Skills:**
+- **Frontend:** ReactJS, WordPress (Elementor, custom themes)
+- **Backend:** Laravel (PHP), FastAPI (Python)
+- **Programming Languages:** Python, JavaScript, PHP
+- **Machine Learning:** scikit-learn, pandas, matplotlib, CNNs
+- **Tools:** VS Code, GitHub, Jupyter Notebook, Anaconda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Machine Learning Projects I've Worked On:**
+- 🌾 **Paddy Disease Classification** using Convolutional Neural Networks (CNN)
+- 🌱 **Crop Recommendation System** using agricultural data and ensemble models
+- ⚡ **Energy Consumption Prediction** using historical and environmental data
+
+🌐 **Web Projects:**
+- 🩹 **Injury Tracking System** built with Laravel
+- 🌿 **Plant Disease Diagnosis Site** built with WordPress
+
+🤝 I actively collaborate with [Ian Kimori](https://github.com/Ian-kimori) on ML and data science projects.
+
+---
+
+📫 Feel free to explore my repositories and reach out if you'd like to collaborate!
