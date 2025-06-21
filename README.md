@@ -18,8 +18,4 @@ I am **Lawrance Tala**, a dedicated Computer Science student and a passionate fu
 - 🩹 **Injury Tracking System** built with Laravel
 - 🌿 **Plant Disease Diagnosis Site** built with WordPress
 
-🤝 I actively collaborate with [Ian Kimori](https://github.com/Ian-kimori) on ML and data science projects.
-
----
-
 📫 Feel free to explore my repositories and reach out if you'd like to collaborate!
